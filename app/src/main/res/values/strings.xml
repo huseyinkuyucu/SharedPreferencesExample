@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BasicSharedPreferences</string>
+
+    <string-array name="curreny">
+
+        <item>Dollar</item>
+        <item>British Pound</item>
+        <item>Euro</item>
+        <item>Japanese Yen</item>
+        <item>Turkish Lira</item>
+
+    </string-array>
+
+</resources>
